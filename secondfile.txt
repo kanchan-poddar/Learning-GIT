@@ -1,6 +1,5 @@
 <html>
 <body>
 Hello world ahsish, git first sample file
-appended the data after first commit.
 </body>
 </html>
